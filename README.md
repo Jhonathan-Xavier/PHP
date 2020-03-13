@@ -1,2 +1,2 @@
-# Php
-My Php programs and notes :D
+# PHP
+My PHP programs and notes :D
